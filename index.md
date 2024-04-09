@@ -18,6 +18,8 @@
 
 Welcome to my personal user page! My name is Jeffrey Lee, currently a student at **UC San Diego** majoring in **Computer Engineering**. Here's a little about me!
 
+> For a general overview of my academics, skills, and experience, here is my [Resume](personal_files\Resume_2024-04-02.pdf)!
+
 ### Background
 Where I'm from/at:
 * My parents grew up in Taiwan before immigrating to Texas for their studies and work, eventually they found jobs in California in the Bay Area and moved there
