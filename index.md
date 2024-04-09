@@ -1,19 +1,20 @@
 # User Page: Jeffrey Lee
 
 ## Table of Contents
-* About Me
-  * Background
-  * Academics
-* Skills & Experience
-  * Technical Skills
-  * Tools & Libraries
-  * Projects & EXperience
-* Contact Information
+* [About Me](https://github.com/jxnlee/cse110-lab1/blob/main/index.md#about-me)
+  * [Background](https://github.com/jxnlee/cse110-lab1/edit/main/index.md#background)
+  * [Academics](https://github.com/jxnlee/cse110-lab1/edit/main/index.md#academics)
+* [Skills & Experience](https://github.com/jxnlee/cse110-lab1/edit/main/index.md#skills--experience)
+  * [Technical Skills](https://github.com/jxnlee/cse110-lab1/edit/main/index.md#technical-skills)
+  * [Tools & Libraries](https://github.com/jxnlee/cse110-lab1/edit/main/index.md#tools--libraries)
+  * [Other Skills](https://github.com/jxnlee/cse110-lab1/edit/main/index.md#other-skills)
+  * [Projects & Experience](https://github.com/jxnlee/cse110-lab1/edit/main/index.md#projects--experience)
+* [Contact Information](https://github.com/jxnlee/cse110-lab1/edit/main/index.md#contact-information)
 ---
 
 ## About Me
 
-![My Picture](personal_pic.jpg)
+![My Picture](personal_files/personal_pic.jpg)
 > *Me standing in front of the Warren Bear at UCSD! [Link to image file](personal_files/personal_pic.jpg)*
 
 Welcome to my personal user page! My name is Jeffrey Lee, currently a student at **UC San Diego** majoring in **Computer Engineering**. Here's a little about me!
@@ -22,7 +23,7 @@ Welcome to my personal user page! My name is Jeffrey Lee, currently a student at
 
 ### Background
 Where I'm from/at:
-* My parents grew up in Taiwan before immigrating to Texas for their studies and work, eventually they found jobs in California in the Bay Area and moved there
+* My parents grew up in Taiwan before immigrating to Texas for their studies and work, eventually, they found jobs in California in the Bay Area and moved there
 * I was born and raised in the Bay Area, so far that is where I've spent most of my life
 * Currently in La Jolla for university (at UC San Diego)
 
@@ -57,7 +58,7 @@ Other Fun Facts:
   - [ ] Keep going to the gym consistently
   - [ ] Pick up a new sport to play regularly
   - [ ] Visit more places in SD!
-  - [ ] Read more books and watch more shows/moviews
+  - [ ] Read more books and watch more shows/movies
   - [ ] Organize my stuff more and be more productive
 
 ### Academics:
@@ -95,7 +96,7 @@ Other Fun Facts:
 * Relevant Coursework:
   * CS 1C: Advanced Data Structures & Algorithms in `Java`
   * CS 1B: Intermediate Software Design in `Java`
-  * CS 1A: Object-Oriented Programming Methodlogies in `Java`
+  * CS 1A: Object-Oriented Programming Methodologies in `Java`
   * MATH 22: Discrete Mathematics
   * MATH 2B: Linear Algebra
 #### Attended ***Lynbrook High School*** (2018-2022):
@@ -116,10 +117,10 @@ Other Fun Facts:
 
 ## Skills & Experience
 ### Technical Skills
-* Programming Lnguages: `Java`, `Python`, `C`, `C++`, `Linux Command LIne`, `MATLAB`
-* Object-Oriented Programming, applications of Data Structures and Algorithms, Systems Programming in C and Assembly, with experience programming microcontrollers such as Arduinos
+* Programming Languages: `Java`, `Python`, `C`, `C++`, `Linux Command Line`, `MATLAB`
+* Object-oriented programming, applications of Data Structures and Algorithms, Systems Programming in C and Assembly, with experience programming microcontrollers such as Arduino
 * Analog Design, Circuit Analysis, and applications of circuits and their components
-* Cisco certified in introductory cybersecurity concepts (threats, attacks, vulnerabilities,approaches to threat detection and defense)
+* Cisco certified in introductory cybersecurity concepts (threats, attacks, vulnerabilities, approaches to threat detection and defense)
 ### Tools & Libraries
 * Programming with **IntelliJ IDEA** and **Eclipse** IDEs, **Vim**, and the **Visual Studio Code** code editor
 * Designing circuit schematics and conducting simulations and analysis with **LTSpice** and **PSpice**
@@ -137,7 +138,7 @@ Other Fun Facts:
 
 ### Projects & Experience
 **Engineering Projects**:
-* ASL Interpretor (`Python`): [Github Repo](https://github.com/jxnlee/ASL-Interpreter)
+* ASL Interpreter (`Python`): [Github Repo](https://github.com/jxnlee/ASL-Interpreter)
 * Dungeon Crawler Game (`Java`)
 * French Phrases (French Grammar Learning Tool) (`Python`)
 * BikeNav Chrome Extension (`Javascript` & `HTML`): [Github Repo](https://github.com/VedPanse/BikeNav)
@@ -145,7 +146,7 @@ Other Fun Facts:
 
 **Other Projects**:
 * 5 pieces (poetry and prose) for the [Vertigo Literary Magazine](https://lhsvertigo.com/)
-  * Additionally contributor as a desgnor for some of the pages of a spring issue
+  * Additionally contributor as a designer for some of the pages of a spring issue
 
 **Volunteer Experience**:
 * Learn in Shelter
